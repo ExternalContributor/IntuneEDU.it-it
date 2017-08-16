@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 4b69b884-bed9-43f4-8507-c802228a8804
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 388e4f4468c3184d4dd941c74f8524a6302694f3
-ms.contentlocale: it-it
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-is-settings-inheritance"></a>Che cos'è l'ereditarietà delle impostazioni?
 
 Le impostazioni vengono applicate ai gruppi. Poiché i gruppi vengono impostati come gerarchie, con un gruppo di un altro, le impostazioni applicate a un gruppo vengono ereditate da tutti i relativi sottogruppi. Questo rende più semplice applicare le impostazioni a gruppi di utenti, applicazioni e dispositivi di grandi dimensioni.
@@ -44,4 +40,3 @@ Si consideri un sottogruppo, *dodicesimo livello AP Computer Science*, al gruppo
 ## <a name="find-out-more"></a>Altre informazioni
 
   - [Individuare che informazioni sui gruppi di completo esperienza in Intune](https://docs.microsoft.com/intune/deploy-use/use-groups-to-manage-users-and-devices-with-microsoft-intune)
-

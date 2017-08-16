@@ -12,19 +12,14 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 20c0f6c9-f1de-4048-aa96-5b0a068c1b75
-searchScope:
-- IntuneEDU
+searchScope: IntuneEDU
 .md#ms.tgt_pltfrm: 
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
 ms.openlocfilehash: a8a9619476315459d49dc128e14c3bc0f2f7794e
-ms.contentlocale: it-it
-ms.lasthandoff: 07/05/2017
-
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-do-i-manage-settings"></a>Come è possibile gestire le impostazioni?
 
 È possibile gestire un'ampia gamma di impostazioni per gli utenti, applicazioni e dispositivi con Intune. È come verrà modificata come dispositivi possono rispondere alle azioni dell'utente.
@@ -73,4 +68,3 @@ Ad esempio, Esperanza è un membro del *livello 6* gruppo ed è anche un membro 
 ## <a name="find-out-more"></a>Altre informazioni
 
 - [Scopri l'esperienza di gestione completa dei criteri in Intune](https://docs.microsoft.com/intune/deploy-use/manage-settings-and-features-on-your-devices-with-microsoft-intune-policies)
-

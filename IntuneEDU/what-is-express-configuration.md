@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: af5d35ee-84f5-4245-a441-671600bcc376
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 796782e6c0cf9fa975bd9c8f3a94314bb00d8d89
-ms.contentlocale: it-it
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-is-express-configuration"></a>Che cos'è la configurazione Express?
 
 Configurazione Express è una delle sezioni che viene visualizzato quando prima accedere a Intune per l'istruzione.
@@ -87,4 +83,3 @@ Dopo aver impostato i gruppi con le impostazioni che necessarie e di App, si è 
 
 ## <a name="find-out-more"></a>Altre informazioni
 - [Maggiori informazioni sulle impostazioni disponibili nell'esperienza di gestione complete in Intune](https://docs.microsoft.com/intune/deploy-use/manage-settings-and-features-on-your-devices-with-microsoft-intune-policies)
-

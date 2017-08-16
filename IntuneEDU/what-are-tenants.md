@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 50bd115f-a167-456a-910d-8f31ec17a422
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 54c063880ff3861cdee702ef6727e828af7a7c5d
-ms.contentlocale: it-it
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-are-tenants"></a>Quali sono i tenant?
 
 Il _tenant_ è l'istanza completa dell'organizzazione di Intune per l'istruzione. Operazioni di modifica nel tenant livello non impatto di un singolo gruppo o anche un gruppo di grandi dimensioni come **tutti gli studenti**. Queste modifiche interessano tutti i dispositivi nella gestione e ogni persona dell'organizzazione utilizzando tali dispositivi, l'intera sottoscrizione e per tutte le licenze disponibili.
@@ -42,4 +38,3 @@ Le impostazioni del tenant sono anche in cui è possibile forzare una sincronizz
 ## <a name="find-out-more"></a>Altre informazioni
 
 - [Trovare ulteriori informazioni sulla configurazione dell'accesso basato sui ruoli nell'esperienza di gestione complete in Intune](https://docs.microsoft.com/intune-azure/access-control/role-based-access-control)
-

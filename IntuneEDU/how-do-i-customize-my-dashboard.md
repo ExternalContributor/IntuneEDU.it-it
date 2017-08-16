@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: ce79202e-e6b4-4e1d-b0e5-26496f9e49a2
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 65e52116b52a125bc9d11b878dd9f7d3e5af4e7a
-ms.contentlocale: it-it
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-do-i-customize-my-dashboard"></a>Come è possibile personalizzare il dashboard personale?
 
 Il _dashboard_ è la pagina principale di Intune per l'istruzione. È in cui si inizierà ogni volta che accedi al portale per gestire utenti, applicazioni e dispositivi.
@@ -57,4 +53,3 @@ Se si desidera modificare l'ordine di ciò che viene visualizzato nella barra la
 ## <a name="find-out-more"></a>Altre informazioni
 
 - [Scopri l'esperienza di gestione di dispositivi Intune completo](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune)
-

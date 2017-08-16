@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: f9cb6daf-a789-427b-bbfd-fa0a3d36e01f
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 667e31dff01b0e078951532445f8e17ad85b23bd
-ms.contentlocale: it-it
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-is-school-data-sync"></a>Che cos'è la sincronizzazione di dati dell'istituto di istruzione?
 
 È possibile utilizzare Microsoft dell'istituto di istruzione dati sincronizzazione (SDS) per importare i record dell'istituto di istruzione da un dati di sistema informazioni studente (SIS) esistente con Intune per l'istruzione.
@@ -32,4 +28,3 @@ SDS Duplica le informazioni dal SIS e la archivia in Azure Active Directory (AD)
 ## <a name="find-out-more"></a>Altre informazioni
 
 - [Altre informazioni su Microsoft School Data Sync](https://sds.microsoft.com)
-

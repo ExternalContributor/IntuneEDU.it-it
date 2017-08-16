@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 45160df9-126d-4c51-a0d3-0e9fad0fe929
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 9c3a2dbcb3412e52eff99d92f4a0560a5122e2f7
-ms.contentlocale: it-it
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-should-i-enroll-devices"></a>Come è consigliabile registrare i dispositivi?
 
 Esistono alcuni modi che è possibile registrare dispositivi nella gestione di Intune per l'istruzione. È possibile utilizzare tutti gli elementi in modo intercambiabile, ma alcuni può essere più logico in base alle dimensioni della zona, numero di agenti per registrare e che riceverà i dispositivi. Ad esempio, è possibile assegnare insegnanti i propri dispositivi e indicare loro di registrare i dispositivi stessi, mentre è possibile configurare una route più rapida per la registrazione di centinaia di dispositivi con una chiave USB.
@@ -37,4 +33,3 @@ Esistono alcuni modi che è possibile registrare dispositivi nella gestione di I
 
 - [Scaricare il **impostare dell'istituto di istruzione PC** app dall'archivio di Microsoft](https://www.microsoft.com/store/p/set-up-school-pcs/9nblggh4ls40)
 - [Trovare ulteriori informazioni sulla configurazione dei dispositivi di Windows per l'istruzione](https://docs.microsoft.com/education/windows/set-up-windows-10)
-

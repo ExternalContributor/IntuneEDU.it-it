@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: c884df47-61a9-4799-a407-8cd311d376d1
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 7b5343d996868ceaf18a58812a4db14d626d2969
-ms.contentlocale: it-it
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-do-i-add-devices-to-intune-for-education"></a>Come è possibile aggiungere dispositivi in Intune per l'istruzione?
 
 Dopo aver configurato Intune per l'istruzione con le informazioni necessarie, quali record degli studenti, App e impostazioni per i dispositivi, è necessario connettere i dispositivi in Intune per l'istruzione. È possibile farlo come parte dell'esperienza di installazione per i nuovi dispositivi Windows 10.
@@ -52,4 +48,3 @@ Il dispositivo verrà [l'autenticazione con Azure AD](https://docs.microsoft.com
 ## <a name="find-out-more"></a>Altre informazioni
 - [Per ulteriori informazioni sul **impostare dell'istituto di istruzione PC** app](https://docs.microsoft.com/education/windows/use-set-up-school-pcs-app)
 - [Scopri l'esperienza completa di aggiunta di dispositivi in Intune](https://docs.microsoft.com/intune/deploy-use/enroll-devices-in-microsoft-intune)
-

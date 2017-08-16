@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: d37a43ff1488c54745daf6109d650a4183d14471
-ms.contentlocale: it-it
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="available-settings-for-intune-for-education"></a>Impostazioni disponibili per Intune per l'istruzione
 
 Configurazione delle impostazioni è uno dei modi principali, è possibile proteggere i dispositivi Windows 10 e creare i tipi di accesso per migliorare l'esperienza di apprendimento corretti. Intune per l'istruzione fornisce molte impostazioni che consentono di personalizzare queste esperienze, sia per i singoli gruppi e i relativi sottogruppi.
@@ -232,4 +228,3 @@ Utilizzare queste impostazioni per aggiornare i dispositivi di questo gruppo a u
 ## <a name="find-out-more"></a>Altre informazioni
 
 - [Le informazioni di Windows 10 impostazioni gestione esperienza completa disponibile in Intune](https://docs.microsoft.com/intune/deploy-use/windows-10-policy-settings-in-microsoft-intune)
-

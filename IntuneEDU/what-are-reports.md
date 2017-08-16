@@ -12,18 +12,14 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: a5922c35-261c-43db-9c7b-c5c93af9cbec
-searchScope:
-- IntuneEDU
+searchScope: IntuneEDU
 ms.reviewer: travisj
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
 ms.openlocfilehash: b1a7a0a574982a48f46559ae0577e6663491b8b3
-ms.contentlocale: it-it
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-are-reports-in-intune-for-education"></a>Quali sono i report in Intune per l'istruzione?
 
 Intune per l'istruzione fornisce report che consentono di visualizzare determinate attività dai dispositivi e App gestite con Intune per l'istruzione. È possibile scaricare questi report per esaminarle offline.
@@ -56,4 +52,3 @@ Esistono attualmente tre tipi di report che è possibile visualizzare in Intune 
 
 - [Scopri l'esperienza di creazione report completa in Intune](https://docs.microsoft.com/intune/deploy-use/understand-microsoft-intune-operations-by-using-reports)
 - [Ulteriori informazioni su reporting con Microsoft Graph](https://developer.microsoft.com/graph/docs/overview/overview)
-

@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 08502917-a691-447d-9ae8-8be2f6ef1b68
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 9fc3c41f09617316f80abc22af2dac5369a0911a
-ms.contentlocale: it-it
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="where-are-my-acquired-microsoft-store-for-education-apps"></a>Dove sono my Store Microsoft acquisiti per le app di formazione?
 
 Durante il processo di assegnazione di app, Intune per l'istruzione consiglia più comuni App didattici da Microsoft Store per l'istruzione. Se una delle App diventa uno si decide di utilizzare una scuola, è possibile acquisire l'app per l'assegnazione immediato ai gruppi da questa schermata.
@@ -38,4 +34,3 @@ Questo può richiedere alcuni minuti e in alcuni casi, potrebbe essere necessari
 ## <a name="find-out-more"></a>Altre informazioni
 
 - [Cercare ulteriori informazioni su Microsoft Store per le app di formazione](https://docs.microsoft.com/microsoft-store/find-and-acquire-apps-overview)
-

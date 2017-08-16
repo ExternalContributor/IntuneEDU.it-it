@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: b496bc02-714e-4391-b533-4c9bdcf57483
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: a593eefcc965537949ec57f6a325d25859801355
-ms.contentlocale: it-it
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-are-enrollment-managers-in-intune-for-education"></a>Quali sono i manager di registrazione in Intune per l'istruzione?
 
 Uso di Intune per l'istruzione per registrare un numero elevato di dispositivi può essere eseguita con un account utente singolo o solo alcuni. Il _Manager di registrazione_ è uno speciale account utente che possono registrare dispositivi fino a 1.000. Richiedere un utente esistente e renderli un Manager di registrazione per consentire loro di funzionalità di registrazione speciali.
@@ -46,4 +42,3 @@ Anche se tale utente non è più un Manager di registrazione, i dispositivi che 
 ## <a name="find-out-more"></a>Altre informazioni
 
 - [Individuare che informazioni sulla gestione registrazione completa esperienza in Intune](https://docs.microsoft.com/intune/deploy-use/enroll-corporate-owned-devices-with-the-device-enrollment-manager-in-microsoft-intune)
-

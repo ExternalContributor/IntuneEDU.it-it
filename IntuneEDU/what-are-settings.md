@@ -12,18 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 91d004c0-8d06-4307-8868-46ac7b119101
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: c7308ab88970c335a0c43d20f4558a54c9143fd9
-ms.contentlocale: it-it
-ms.lasthandoff: 07/05/2017
-
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-are-settings"></a>Quali sono le impostazioni?
 
 _Impostazioni_ vengono utilizzati per definire l'utilizzo con i propri dispositivi. Questo può modificare come dispositivo risponde a un utente sta tentando di eseguire l'azione, o arrestando semplicemente effettuando un'operazione su un dispositivo di un utente. Intune per le impostazioni di formazione consentono di gestire le funzionalità nei dispositivi dell'istituto di istruzione.
@@ -45,4 +40,3 @@ Impostazioni possono essere impostate e assegnate a utenti e dispositivi tramite
 ## <a name="find-out-more"></a>Altre informazioni
 
 - [Ulteriori informazioni su come proteggere App e dati con l'esperienza di gestione complete in Intune](https://docs.microsoft.com/intune/deploy-use/protect-apps-and-data-with-microsoft-intune)
-
