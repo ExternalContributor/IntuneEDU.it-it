@@ -34,12 +34,6 @@ Intune per l'istruzione può essere usato da solo o in linea con il [completo es
 
 Intune per l'istruzione collabora a stretto contatto con [Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/active-directory-administer), [sincronizzazione di dati dell'istituto di istruzione Microsoft](https://sds.microsoft.com), e [Office 365 Education](https://support.office.com/article/Get-started-with-Office-365-Education-AB02ABE5-A1EE-458C-B749-5B44416CCF14) per semplificare la gestione dei dispositivi. Intune per l'istruzione semplifica questo processo per ottenere automaticamente aggiunto come uno strumento di gestione per Azure Active Directory e i tenant di Microsoft Store.
 
-## <a name="will-intune-for-education-work-for-shared-devices"></a>Intune per l'istruzione funzionerà per i dispositivi condivisi?
-Intune per l'istruzione funziona per i dispositivi condivisi tramite la gestione di più utenti in un singolo dispositivo. Quando gli utenti che condividono un dispositivo dispongono di diverse App e impostazioni specifiche, l'utente che ha effettuato l'accesso Visualizza solo le App e impostare le relative impostazioni.
-
-## <a name="get-started-with-intune-for-education"></a>Introduzione a Intune per l'istruzione
-Per iniziare con Intune per l'istruzione, aprire il [Intune per la console di formazione](https://intuneeducation.portal.azure.com) e accedere con le credenziali dell'istituto di istruzione. Si avvia sul [dashboard](how-do-i-customize-my-dashboard.md), la pagina di destinazione per l'uso di Intune per l'istruzione.
-
 ![Schermata della pagina di destinazione una volta registrata Intune per l'istruzione.](./media/dashboard-001-landing-page.png)
 
 Dopo l'accesso, iniziare con [Express configurazione](what-is-express-configuration.md). Non esiste è possibile selezionare un gruppo contenente gli utenti (ad esempio gli studenti o docenti) o i dispositivi (ad esempio _2 ° piano Computer Lab_ o _undicesimo livello AP Computer Science_) e iniziare ad assegnare loro le App e impostazioni.
